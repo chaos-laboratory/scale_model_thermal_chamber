@@ -1,1 +1,1 @@
-# scale_model_thermal_chamber
+# scaled_thermal_chamber
